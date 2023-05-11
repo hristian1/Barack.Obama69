@@ -1,0 +1,8 @@
+C:\Users\STUDENTS-1409-4\Desktop\9a\biraria\biraria\bin\Debug\biraria.exe.config
+C:\Users\STUDENTS-1409-4\Desktop\9a\biraria\biraria\bin\Debug\biraria.exe
+C:\Users\STUDENTS-1409-4\Desktop\9a\biraria\biraria\bin\Debug\biraria.pdb
+C:\Users\STUDENTS-1409-4\Desktop\9a\biraria\biraria\obj\Debug\biraria.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1409-4\Desktop\9a\biraria\biraria\obj\Debug\biraria.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-1409-4\Desktop\9a\biraria\biraria\obj\Debug\biraria.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1409-4\Desktop\9a\biraria\biraria\obj\Debug\biraria.exe
+C:\Users\STUDENTS-1409-4\Desktop\9a\biraria\biraria\obj\Debug\biraria.pdb
