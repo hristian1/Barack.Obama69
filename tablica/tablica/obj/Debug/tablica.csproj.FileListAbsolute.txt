@@ -1,0 +1,8 @@
+C:\Users\STUDENTS-1409-4\Desktop\9a\tablica\tablica\bin\Debug\tablica.exe.config
+C:\Users\STUDENTS-1409-4\Desktop\9a\tablica\tablica\bin\Debug\tablica.exe
+C:\Users\STUDENTS-1409-4\Desktop\9a\tablica\tablica\bin\Debug\tablica.pdb
+C:\Users\STUDENTS-1409-4\Desktop\9a\tablica\tablica\obj\Debug\tablica.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1409-4\Desktop\9a\tablica\tablica\obj\Debug\tablica.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-1409-4\Desktop\9a\tablica\tablica\obj\Debug\tablica.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1409-4\Desktop\9a\tablica\tablica\obj\Debug\tablica.exe
+C:\Users\STUDENTS-1409-4\Desktop\9a\tablica\tablica\obj\Debug\tablica.pdb
